@@ -1,0 +1,6 @@
+{
+  "name": "CodeSphere",
+  "description": "AI-powered coding, learning, and firmware engineering platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
